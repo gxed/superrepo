@@ -1,0 +1,15 @@
+
+[bbloom]
+checkout = git clone 'git@github.com:gxed/bbloom.git' 'bbloom'
+
+[client_golang]
+checkout = git clone 'git@github.com:gxed/client_golang.git' 'client_golang'
+
+[eventfd]
+checkout = git clone 'git@github.com:gxed/eventfd.git' 'eventfd'
+
+[GoEndian]
+checkout = git clone 'git@github.com:gxed/GoEndian.git' 'GoEndian'
+
+[go-is-domain]
+checkout = git clone 'git@github.com:gxed/go-is-domain.git' 'go-is-domain'
